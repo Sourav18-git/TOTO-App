@@ -9,7 +9,7 @@ const HomeMap=()=>{
         <View>
 
 {/* <Image source={require('./assets/images/faviicon.png')} /> */}
-<Image  style={{width:500,height:375}} source={{uri:"https://www.researchgate.net/publication/327930833/figure/fig1/AS:675683210645504@1538106839183/General-location-map-Google-Maps-2010.png"}} />
+<Image  style={{width:500,height:360}} source={{uri:"https://www.researchgate.net/publication/327930833/figure/fig1/AS:675683210645504@1538106839183/General-location-map-Google-Maps-2010.png"}} />
         </View>  
     );
 }
