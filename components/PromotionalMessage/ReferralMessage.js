@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     },
     referText: {
         fontSize: 20,
-        color: 'lightbalck',
+        // color: 'lightbalck',
         marginLeft:6
         // padding:4
 
